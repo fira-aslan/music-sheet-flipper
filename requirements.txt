@@ -1,0 +1,11 @@
+aubio==0.4.9
+librosa==0.10.0
+miditoolkit==0.1.16
+MIDIUtil==1.2.1
+mido==1.2.10
+music21==8.1.0
+PyAudio==0.2.13
+pyzmq==25.0.2
+requests==2.28.2
+ipykernel==6.22.0
+ipython==8.11.0
